@@ -2,7 +2,7 @@ frase = 'Curso em Video Python'
 print(frase)
  
 print('\nPega o caractere das posição indicada')
-print(frase[9])
+print(frase[1])
 
 print('\nPega os caracteres das posições indicadas [inicio:fim]')
 print(frase[9:13])
