@@ -7,7 +7,7 @@ if sexo == 1:
     idade = time.localtime().tm_year - ano
 
     print(f'Quem nasceu em {ano} tem {idade} anos!')
-    if idade ==17:
+    if idade == 17:
         print('Você deve se alistar em breve!')
     elif idade==18:
         print('Procure uma junta militar e se aliste!')
