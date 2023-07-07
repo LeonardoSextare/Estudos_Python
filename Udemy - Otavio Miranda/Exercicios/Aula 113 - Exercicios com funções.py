@@ -12,6 +12,4 @@ def parOuImpar(numero):
     return 'Impar'
 
 
-print(parOuImpar(multiplica(1,3)))
-
- 
+print(parOuImpar(multiplica(1, 3)))

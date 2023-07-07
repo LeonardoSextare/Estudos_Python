@@ -1,5 +1,5 @@
-cidades = ['Salvador', 'Ubatuba', 'Belo Horizonte']
-estados = ['BA', 'SP', 'MG', 'RJ']
+arquivo = 'teste.txt'
 
-
-print(min(cidades, estados))
+with open(arquivo, 'w') as arquivo:
+    arquivo.write('Linha 1 \n')
+    arquivo.write('Linha 2 \n')
