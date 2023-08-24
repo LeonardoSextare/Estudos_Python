@@ -17,8 +17,6 @@ while True:
                 if tentativa == palavra_secreta[i]:
                     previa[i] = tentativa
 
-
-
         print(f'Palavra formatada: {"".join(previa)}')
         qntd_tentativa += 1
 

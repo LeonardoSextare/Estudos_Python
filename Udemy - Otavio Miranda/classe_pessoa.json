@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Leonardo",
+    "idade": 22,
+    "altura": 1.71,
+    "peso": 65,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Pedro",
+    "idade": 23,
+    "altura": 1.81,
+    "peso": 120,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Brenda",
+    "idade": 28,
+    "altura": 1.68,
+    "peso": 65,
+    "sexo": "Feminino"
+  }
+]

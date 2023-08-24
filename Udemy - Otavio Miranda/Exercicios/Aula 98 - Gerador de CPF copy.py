@@ -17,9 +17,9 @@ for c in range(qnt_gerador):
     penultimo_digito = (soma_cpf * 10) % 11
     if penultimo_digito > 9:
         penultimo_digito = 0
-    
+
     cpf = f'{nove_digitos}{penultimo_digito}'
-    
+
     # Gerando o ultimo digito
     soma_cpf = 0
     for i in range(10, 1, -1):
@@ -28,8 +28,7 @@ for c in range(qnt_gerador):
     ultimo_digito = (soma_cpf * 10) % 11
     if ultimo_digito > 9:
         ultimo_digito = 0
-    
-    cpf = f'{nove_digitos}{penultimo_digito}{ultimo_digito}'
-    
-    print(cpf)
 
+    cpf = f'{nove_digitos}{penultimo_digito}{ultimo_digito}'
+
+    print(cpf)

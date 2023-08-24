@@ -7,4 +7,4 @@ Aqui está o meu cantinho onde registro todos os meus exercícios e projetos enq
 ### Cursos Concluídos e em Progresso:
 
 - Python Básico - Prof. Guanabara (Concluído - 100%)
-- Python Básico ao Avançado - Luiz Otavio Miranda (Em progresso - 15%)
+- Python Básico ao Avançado - Luiz Otavio Miranda (Em progresso - 30%)

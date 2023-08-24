@@ -1,7 +1,8 @@
 lista = []
 while True:
     while True:
-        escolha = input('Selecione uma opção:\n[i]nserir, [a]pagar, [l]istar, [s]air\n>>')[0].lower()
+        escolha = input(
+            'Selecione uma opção:\n[i]nserir, [a]pagar, [l]istar, [s]air\n>>')[0].lower()
         if escolha not in 'ial':
             print('Opção Invalida.')
             continue
@@ -20,7 +21,8 @@ while True:
                 print(indice, valor)
 
             try:
-                valor = int(input('Digite o indice do valor você quer apagar:'))
+                valor = int(
+                    input('Digite o indice do valor você quer apagar:'))
                 lista.pop((valor))
             except ValueError:
                 print('Digite somente números.')
