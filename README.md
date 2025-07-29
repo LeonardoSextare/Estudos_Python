@@ -1,10 +1,24 @@
-## 🐍 Bem-vindo ao repositório "Estudos Python"! 📚
+# Repositório de Estudos
+Este repositório contém os exercícios dos cursos que estou fazendo. O objetivo é organizar os materiais de forma prática e acessível para revisão.
 
-Aqui está o meu cantinho onde registro todos os meus exercícios e projetos enquanto aprendo a linguagem Python. 🚀
+## Estrutura
+Os exercícios estão organizados por curso e módulo. Cada pasta contém os arquivos relacionados a um exercício específico.
+```
+/curso-1/
+    /exercicio-1/
+    /exercicio-2/
+    ...
+/curso-2/
+    /exercicio-1/
+    /exercicio-2/
+    ...
+```
 
-🌟 Fique à vontade para explorar o meu progresso, dar sugestões e até mesmo colaborar! O aprendizado é mais divertido quando compartilhado. 🤝
 
-### Cursos Concluídos e em Progresso:
+## Cursos Concluídos e em Progresso:
 
-- Python Básico - Prof. Guanabara (Concluído - 100%)
-- Python Básico ao Avançado - Luiz Otavio Miranda (Em progresso - 30%)
+- **Python Básico - Prof. Guanabara**  
+  Concluído: ✅ 100%
+
+- **Python Básico ao Avançado - Luiz Otavio Miranda**  
+  Em progresso: 🟩🔲🔲🔲 30%
