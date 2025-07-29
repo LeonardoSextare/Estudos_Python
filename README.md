@@ -21,4 +21,4 @@ Os exercícios estão organizados por curso e módulo. Cada pasta contém os arq
   Concluído: ✅ 100%
 
 - **Python Básico ao Avançado - Luiz Otavio Miranda**  
-  Em progresso: 🟩🔲🔲🔲 30%
+  Em progresso: 🟩🔲🔲🔲 40%
